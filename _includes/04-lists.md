@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* i can sleep
+* i can eat
+* i can drink
