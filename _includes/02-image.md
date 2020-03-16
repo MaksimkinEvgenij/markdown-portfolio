@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![google_pic](https://upload.wikimedia.org/wikipedia/commons/b/b5/Google_Videos_logo.png)
